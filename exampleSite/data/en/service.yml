@@ -11,24 +11,14 @@ service:
     # service item loop
     - name : Reduce
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Interested in reducing your carbon emissions? We help you build and execute a world class climate action plan designed to cut inefficiencies and deliver maximum climate impact.
+      content : We help you build and execute a world class climate action plan designed to cut inefficiencies and deliver maximum climate impact across power procurement, your supply chain, and more.
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : Remove
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : To achieve the net in net-zero, we help you remove carbon by procuring the best in class, verifiable carbon removal.
+            
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
+    - name : Report
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : We help you report your carbon footprint in line with international standards and regulatory guidelines.
