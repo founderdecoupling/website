@@ -4,14 +4,14 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Measure
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : We measure your firm's carbon footprint across scopes 1, 2, and 3 with our in-house software. 
       
     # service item loop
-    - name : Responsive Design
+    - name : Reduce
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Interested in reducing your carbon emissions? We help you build and execute a world class climate action plan designed to cut inefficiencies and deliver maximum climate impact.
       
     # service item loop
     - name : Media &amp; Advertisement
