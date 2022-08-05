@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Decarbonization as a Service"
-  content : "Measure, reduce, and report your firm's carbon footprint."
+  title : Decarbonization as a Service
+  content : "Measure, reduce, and report your firm's carbon footprint. We."
   button:
     enable : true
     label : "Explore Us"
