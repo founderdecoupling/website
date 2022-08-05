@@ -48,12 +48,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #020303;
 }
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #020303;
 }
 
 hr {
@@ -115,7 +115,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #020303;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -137,7 +137,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #020303;
 }
 
 .color {
